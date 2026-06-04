@@ -70,6 +70,18 @@
   <a href="https://discord.com/users/TVÉ_DISCORD_ID" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
   </a>
+  <a href="https://instagram.com/TVUJ_INSTAGRAM" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
+  <a href="https://tiktok.com/@TVUJ_TIKTOK" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tiktok" alt="TikTok" />
+  </a>
+  <a href="https://facebook.com/TVUJ_FACEBOOK" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" />
+  </a>
+  <a href="https://open.spotify.com/user/TVE_SPOTIFY_ID" target="_blank">
+    <img src="https://skillicons.dev/icons?i=spotify" alt="Spotify" />
+  </a>
 </p>
 
 <p align="center">
