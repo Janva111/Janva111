@@ -67,18 +67,15 @@
   <a href="https://linkedin.com/in/TVŮJ_PROFIL" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
+  
   <a href="https://discord.com/users/TVÉ_DISCORD_ID" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
   </a>
+  
   <a href="https://instagram.com/TVUJ_INSTAGRAM" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
-  <a href="https://tiktok.com/@TVUJ_TIKTOK" target="_blank">
-    <img src="https://img.shields.io/badge/-TikTok-111827?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" height="50" />
-  </a>
-  <a href="https://facebook.com/TVUJ_FACEBOOK" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-111827?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="50" />
-  </a>
+  
   <a href="https://open.spotify.com/user/TVE_SPOTIFY_ID" target="_blank">
     <img src="https://skillicons.dev/icons?i=spotify" alt="Spotify" />
   </a>
