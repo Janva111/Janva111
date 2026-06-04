@@ -10,19 +10,19 @@
       <img src="https://img.shields.io/github/stars/Janva111?logo=reverbnation&style=for-the-badge&color=4FACFE&labelColor=111827" alt="Stars" />
     </a>
   </p>
-</div>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Svítící oddělovač" />
 </p>
-
+</div>
+<div align="center">
 ## 🧑‍💻 About Me
-
+</div>
 - ❄️ Jsem webový a herní vývojář se zálibou v moderních technologiích.
 - 🚀 Můj nejpovedenější projekt je **Chuligani**.
 - 🏆 V **Clash Royale** mám pokořenou hranici **11 500+ pohárků**.
 - 🌱 Rád experimentuji s Linuxem a Dockerem.
-
+<div align="center">
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Svítící oddělovač" />
 </p>
@@ -56,3 +56,8 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Svítící oddělovač" />
 </p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+</p>
+</div>
