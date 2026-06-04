@@ -28,9 +28,6 @@
 <p align="center">
   <!-- Hlavní GitHub Stats Karta s neonovým přechodem -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Janva111&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
-  
-  <!-- Nejpoužívanější jazyky -->
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janva111&layout=compact&theme=tokyonight&border_radius=10" height="180" alt="Top Langs" />
 </p>
 ---
 
