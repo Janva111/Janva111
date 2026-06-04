@@ -74,10 +74,10 @@
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
   <a href="https://tiktok.com/@TVUJ_TIKTOK" target="_blank">
-    <img src="https://skillicons.dev/icons?i=tiktok" alt="TikTok" />
+    <img src="https://img.shields.io/badge/-TikTok-111827?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" height="50" />
   </a>
   <a href="https://facebook.com/TVUJ_FACEBOOK" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" />
+    <img src="https://img.shields.io/badge/-Facebook-111827?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="50" />
   </a>
   <a href="https://open.spotify.com/user/TVE_SPOTIFY_ID" target="_blank">
     <img src="https://skillicons.dev/icons?i=spotify" alt="Spotify" />
