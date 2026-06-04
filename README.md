@@ -14,16 +14,9 @@
 
 ---
 
-### 🐍 CONTRIBUTION SNAKE
+### 🐍 Aktivity
 <p align="center">
   <img src="https://raw.githubusercontent.com/Janva111/Janva111/output/github-contribution-grid-snake-dark.svg" alt="Snake game" />
-</p>
-
----
-
-### 📈 Aktivita v čase
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Janva111&theme=react-dark&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
 ---
