@@ -32,7 +32,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janva111&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ra1chl&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Janva111&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Svítící oddělovač" />
 </p>
