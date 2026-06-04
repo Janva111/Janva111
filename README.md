@@ -14,7 +14,7 @@
 </div>
 
 <p align="center">
-  <img src="https://kandi.discombobulated.xyz/images/glow-line.gif" width="100%" alt="Blikající oddělovač" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Svítící oddělovač" />
 </p>
 
 ## 🛠️ Tech Stack & Skillset
@@ -24,7 +24,10 @@
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Svítící oddělovač" />
+</p>
+
 
 ## 📊 Statistiky & Výkon
 <p align="center">
@@ -32,15 +35,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Janva111&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Svítící oddělovač" />
+</p>
+
 
 ## 🐍 GitHub Snake Activity
 <p align="center">
   <img src="https://raw.githubusercontent.com/Janva111/Janva111/output/github-contribution-grid-snake-dark.svg" alt="Snake game" width="90%" />
 </p>
 
----
-<!-- Spodní svítící linka pro high-end zakončení -->
 <p align="center">
-  <img src="https://kandi.discombobulated.xyz/images/glow-line.gif" width="100%" alt="Glow Line" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Svítící oddělovač" />
 </p>
