@@ -14,7 +14,7 @@
 </div>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Svítící oddělovač" />
+  <img src="https://kandi.discombobulated.xyz/images/glow-line.gif" width="100%" alt="Blikající oddělovač" />
 </p>
 
 ## 🛠️ Tech Stack & Skillset
