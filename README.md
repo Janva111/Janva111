@@ -1,8 +1,6 @@
 <div align="center">
   <h1>✨ Vítejte na profilu Janva111 ✨</h1>
-  <p>Full-stack developer & tech nadšenec</p>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=BF94FF&center=true&vCenter=true&width=500&lines=✨+JANVA111+DEVELOPER+✨;🚀+Cyberpunk+Interface+Active;💻+Building+the+Future" alt="Typing SVG" />
+  <p>Leodvý programator</p>
 </div>
 
 ---
