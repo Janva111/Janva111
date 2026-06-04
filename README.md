@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=%E2%9C%A8+V%C3%ADtejte+u+Janva111+%E2%9C%A8;%E2%9D%84%EF%B8%8F+Ledov%C3%BD+Program%C3%A1tor;%F0%9F%92%BB+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=%E2%9C%A8+V%C3%ADtejte+u+Janva111+%E2%9C%A8;%E2%9D%84%EF%B8%8F+Ledov%C3%BD+Program%C3%A1tor;%F0%9F%92%BB+Web+Developer" alt="Typing SVG" />
 
   <p align="center">
     <a href="https://github.com/Janva111">
