@@ -23,19 +23,6 @@
 
 ---
 
-### 📊 Výkonnostní Dashboard
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Janva111&show_icons=true&theme=tokyonight&hide_border=true" alt="Janva111 Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janva111&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Janva111&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
-</p>
-
----
-
 ### 📈 Aktivita v čase
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Janva111&theme=react-dark&area=true&hide_border=true" width="100%" alt="Activity Graph" />
@@ -43,7 +30,12 @@
 
 ---
 
-### 🧮 Přehled příspěvků (Streak)
+### 🧮 Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Janva111&theme=calm&hide_border=true" alt="GitHub Streak" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Janva111&show_icons=true&theme=tokyonight&hide_border=true" alt="Janva111 Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janva111&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Janva111&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
 </p>
