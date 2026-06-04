@@ -27,15 +27,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Svítící oddělovač" />
 </p>
 
-## 💻 Used technologi
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janva111&layout=donut&theme=vision-gloomy&hide_border=true&langs_count=6" alt="Top Languages Janva111" width="60%" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%" alt="Svítící oddělovač" />
-</p>
-
 ## 🐍 GitHub Snake Activity
 <p align="center">
   <img src="https://raw.githubusercontent.com/Janva111/Janva111/output/github-contribution-grid-snake-dark.svg" alt="Snake game" width="90%" />
