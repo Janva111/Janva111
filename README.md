@@ -64,20 +64,16 @@
 
 ## 🌐 Connect with me
 <p align="center">
-  <a href="https://linkedin.com/in/TVŮJ_PROFIL" target="_blank">
+  <a href="https://linkedin.com/in/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   
-  <a href="https://discord.com/users/TVÉ_DISCORD_ID" target="_blank">
+  <a href="https://discord.com/users/janva22" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
   </a>
   
-  <a href="https://instagram.com/TVUJ_INSTAGRAM" target="_blank">
+  <a href="https://instagram.com/honza_vavra._" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-  </a>
-  
-  <a href="https://open.spotify.com/user/TVE_SPOTIFY_ID" target="_blank">
-    <img src="https://skillicons.dev/icons?i=spotify" alt="Spotify" />
   </a>
 </p>
 
