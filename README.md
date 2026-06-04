@@ -15,13 +15,18 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Svítící oddělovač" />
 </p>
 </div>
+
 <div align="center">
+  
 ## 🧑‍💻 About Me
+
 </div>
+
 - ❄️ Jsem webový a herní vývojář se zálibou v moderních technologiích.
 - 🚀 Můj nejpovedenější projekt je **Chuligani**.
 - 🏆 V **Clash Royale** mám pokořenou hranici **11 500+ pohárků**.
 - 🌱 Rád experimentuji s Linuxem a Dockerem.
+
 <div align="center">
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Svítící oddělovač" />
