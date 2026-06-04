@@ -46,8 +46,7 @@
 </p>
 
 ---
-
 <!-- Spodní svítící linka pro high-end zakončení -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=Waving&color=gradient:00F2FE,4FACFE&height=60&section=footer" width="100%" />
+  <img src="https://kandi.discombobulated.xyz/images/glow-line.gif" width="100%" alt="Glow Line" />
 </p>
