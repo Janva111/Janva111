@@ -1,0 +1,20 @@
+name: Tic Tac Toe
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  play:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Play Game
+        uses: jasonanderson/github-readme-tic-tac-toe@main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
