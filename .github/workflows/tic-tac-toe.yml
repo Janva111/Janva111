@@ -5,16 +5,16 @@ on:
     types: [opened]
 
 jobs:
-  play:
+  update-tic-tac-toe:
     runs-on: ubuntu-latest
     permissions:
       contents: write
       issues: write
     steps:
-      - name: Checkout repo
+      - name: Checkout
         uses: actions/checkout@v3
 
       - name: Play Game
-        uses: jasonanderson/github-readme-tic-tac-toe@main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        uses: im-pavan/tic-tac-toe-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
