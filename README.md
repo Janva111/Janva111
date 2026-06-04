@@ -35,7 +35,7 @@
 ## 🛠️ Tech Stack & Skillset
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,mongodb,python,c,cpp,cs,java,php,bash,git,docker,linux,figma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,python,c,cpp,cs,java,bash,git,docker,linux,unity,figma&theme=dark" />
   </a>
 </p>
 
