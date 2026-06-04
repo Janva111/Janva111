@@ -29,7 +29,7 @@
 
 ## 💻 Používané technologie
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janva111&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janva111&layout=donut&theme=vision-gloomy&hide_border=true&bg_color=0D1117&langs_count=6" alt="Top Languages Janva111" width="60%" />
 </p>
 
 <p align="center">
