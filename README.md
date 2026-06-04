@@ -28,17 +28,17 @@
 
 ### 🕹️ RETRO ZONE: TIC-TAC-TOE
 <div align="center">
-  <a href="https://github.com/Janva111/Janva111/issues/new?title=ttt%3A+1"><img src="https://raw.githubusercontent.com/Janva111/Janva111/main/tic-tac-toe/1.png" width="80" alt="1" /></a>
-  <a href="https://github.com/Janva111/Janva111/issues/new?title=ttt%3A+2"><img src="https://raw.githubusercontent.com/Janva111/Janva111/main/tic-tac-toe/2.png" width="80" alt="2" /></a>
-  <a href="https://github.com/Janva111/Janva111/issues/new?title=ttt%3A+3"><img src="https://raw.githubusercontent.com/Janva111/Janva111/main/tic-tac-toe/3.png" width="80" alt="3" /></a>
+  <a href="https://github.com/Janva111/Janva111/issues/new?title=ttt%3A1"><img src="https://raw.githubusercontent.com/Janva111/Janva111/main/tic-tac-toe/1.png" width="90" alt="1" /></a>
+  <a href="https://github.com/Janva111/Janva111/issues/new?title=ttt%3A2"><img src="https://raw.githubusercontent.com/Janva111/Janva111/main/tic-tac-toe/2.png" width="90" alt="2" /></a>
+  <a href="https://github.com/Janva111/Janva111/issues/new?title=ttt%3A3"><img src="https://raw.githubusercontent.com/Janva111/Janva111/main/tic-tac-toe/3.png" width="90" alt="3" /></a>
   <br />
-  <a href="https://github.com/Janva111/Janva111/issues/new?title=ttt%3A+4"><img src="https://raw.githubusercontent.com/Janva111/Janva111/main/tic-tac-toe/4.png" width="80" alt="4" /></a>
-  <a href="https://github.com/Janva111/Janva111/issues/new?title=ttt%3A+5"><img src="https://raw.githubusercontent.com/Janva111/Janva111/main/tic-tac-toe/5.png" width="80" alt="5" /></a>
-  <a href="https://github.com/Janva111/Janva111/issues/new?title=ttt%3A+6"><img src="https://raw.githubusercontent.com/Janva111/Janva111/main/tic-tac-toe/6.png" width="80" alt="6" /></a>
+  <a href="https://github.com/Janva111/Janva111/issues/new?title=ttt%3A4"><img src="https://raw.githubusercontent.com/Janva111/Janva111/main/tic-tac-toe/4.png" width="90" alt="4" /></a>
+  <a href="https://github.com/Janva111/Janva111/issues/new?title=ttt%3A5"><img src="https://raw.githubusercontent.com/Janva111/Janva111/main/tic-tac-toe/5.png" width="90" alt="5" /></a>
+  <a href="https://github.com/Janva111/Janva111/issues/new?title=ttt%3A6"><img src="https://raw.githubusercontent.com/Janva111/Janva111/main/tic-tac-toe/6.png" width="90" alt="6" /></a>
   <br />
-  <a href="https://github.com/Janva111/Janva111/issues/new?title=ttt%3A+7"><img src="https://raw.githubusercontent.com/Janva111/Janva111/main/tic-tac-toe/7.png" width="80" alt="7" /></a>
-  <a href="https://github.com/Janva111/Janva111/issues/new?title=ttt%3A+8"><img src="https://raw.githubusercontent.com/Janva111/Janva111/main/tic-tac-toe/8.png" width="80" alt="8" /></a>
-  <a href="https://github.com/Janva111/Janva111/issues/new?title=ttt%3A+9"><img src="https://raw.githubusercontent.com/Janva111/Janva111/main/tic-tac-toe/9.png" width="80" alt="9" /></a>
+  <a href="https://github.com/Janva111/Janva111/issues/new?title=ttt%3A7"><img src="https://raw.githubusercontent.com/Janva111/Janva111/main/tic-tac-toe/7.png" width="90" alt="7" /></a>
+  <a href="https://github.com/Janva111/Janva111/issues/new?title=ttt%3A8"><img src="https://raw.githubusercontent.com/Janva111/Janva111/main/tic-tac-toe/8.png" width="90" alt="8" /></a>
+  <a href="https://github.com/Janva111/Janva111/issues/new?title=ttt%3A9"><img src="https://raw.githubusercontent.com/Janva111/Janva111/main/tic-tac-toe/9.png" width="90" alt="9" /></a>
 </div>
 
 ---
