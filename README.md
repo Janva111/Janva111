@@ -22,7 +22,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janva111&layout=compact&theme=calm&hide_border=true" alt="Top Langs" width="48%" />
 </p>
 
-#### 📈 Aktivita v čase
+### 📈 Aktivita v čase
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Janva111&theme=react-dark&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
