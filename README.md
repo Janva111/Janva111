@@ -32,12 +32,6 @@
   <!-- Nejpoužívanější jazyky -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janva111&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00F2FE&text_color=A9B2C3&border_radius=10" height="180" alt="Top Langs" />
 </p>
-
-<p align="center">
-  <!-- Tvoje stávající Streak karta v lepším zarovnání -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Janva111&theme=tokyonight&background=0D1117&ring=00F2FE&fire=4FACFE&currStreakNum=A9B2C3&sideLabels=A9B2C3&dates=7A889B&hide_border=true" width="85%" alt="GitHub Streak" />
-</p>
-
 ---
 
 ## 🐍 GitHub Snake Activity
