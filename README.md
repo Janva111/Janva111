@@ -53,10 +53,16 @@
 </p>
 
 ## 📊 Statistiky & Výkon
-<p align="center">
-  <!-- Hlavní GitHub Stats Karta s neonovým přechodem -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Janva111&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
-</p>
+<table width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" style="margin-top: 5px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Janva111&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
+  </td>
+    <td width="50%" align="center" valign="top" style="padding-left: 5px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janva111&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Svítící oddělovač" />
