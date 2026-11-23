@@ -33,7 +33,6 @@
       <ul>
         <li>❄️ <b>Webový a herní vývojář</b> se zálibou v moderních technologiích.</li>
         <li>🔵🟡🔴 čistý kód a týmový tah na branku.</li>
-        <li>🏆 V <b>Clash Royale</b> mám pokořenou hranici <b>11 500+ pohárků</b>.</li>
         <li>🐧 Rád experimentuji s <b>Linuxem</b> a kontejnery v <b>Dockeru</b>.</li>
       </ul>
     </td>
