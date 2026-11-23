@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Sparťanský vlnový banner (Modrá - Žlutá - Rudá) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:004B87,50:FFD100,100:A6192E&height=210&section=header&text=Janva111&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=%F0%9F%94%B5%F0%9F%9F%A1%F0%9F%94%B4%20Web%20%26%20Game%20Developer%20%7C%20Ledov%C3%BD%20Program%C3%A1tor&descAlignY=62&descSize=18" width="100%" />
+<!-- Sparťanský vlnový banner (Ostrá trikolóra: Modrá - Žlutá - Rudá) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:004B87,33:004B87,34:FFD100,66:FFD100,67:A6192E,100:A6192E&height=210&section=header&text=Janva111&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=%F0%9F%94%B5%F0%9F%9F%A1%F0%9F%94%B4%20Web%20%26%20Game%20Developer%20%7C%20Ledov%C3%BD%20Program%C3%A1tor&descAlignY=62&descSize=18" width="100%" />
 
 <!-- Animovaný text (Sparťanská žlutá) -->
 <a href="https://git.io/typing-svg">
@@ -21,9 +21,12 @@
   <img src="https://komarev.com/ghpvc/?username=Janva111&style=for-the-badge&color=A6192E&labelColor=0D1117&label=N%C3%A1v%C5%A1t%C4%9Bvy" alt="Profile Views" />
 </p>
 
-</div>
+<br/>
+<!-- Ostrý sparťanský oddělovač -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:004B87,33:004B87,34:FFD100,66:FFD100,67:A6192E,100:A6192E&height=4" width="100%" />
+<br/>
 
----
+</div>
 
 ### 🧑‍💻 O mně & Hlavní projekt
 
@@ -44,9 +47,12 @@
   </tr>
 </table>
 
----
-
 <div align="center">
+
+<br/>
+<!-- Ostrý sparťanský oddělovač -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:004B87,33:004B87,34:FFD100,66:FFD100,67:A6192E,100:A6192E&height=4" width="100%" />
+<br/>
 
 ### 🛠️ Tech Stack & Skillset
 
@@ -59,7 +65,10 @@
   </tr>
 </table>
 
----
+<br/>
+<!-- Ostrý sparťanský oddělovač -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:004B87,33:004B87,34:FFD100,66:FFD100,67:A6192E,100:A6192E&height=4" width="100%" />
+<br/>
 
 ### 📊 Statistiky & Výkon
 
@@ -79,7 +88,10 @@
 ### 🐍 GitHub Snake Activity
 <img src="https://raw.githubusercontent.com/Janva111/Janva111/output/github-contribution-grid-snake-dark.svg" alt="Snake game" width="95%" />
 
----
+<br/>
+<!-- Ostrý sparťanský oddělovač -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:004B87,33:004B87,34:FFD100,66:FFD100,67:A6192E,100:A6192E&height=4" width="100%" />
+<br/>
 
 ### 🌐 Spojme se
 
@@ -99,7 +111,7 @@
 
 <br/>
 
-<!-- Spodní vlnový banner v opačném pořadí barev -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A6192E,50:FFD100,100:004B87&height=100&section=footer" width="100%" />
+<!-- Spodní vlnový banner (Ostrá trikolóra: Modrá - Žlutá - Rudá) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:004B87,33:004B87,34:FFD100,66:FFD100,67:A6192E,100:A6192E&height=100&section=footer" width="100%" />
 
 </div>
