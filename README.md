@@ -2,13 +2,8 @@
 
 
 
-<!-- Animovaný ledový header (Capsule Render) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E3A8A,100:00F2FE&height=200&section=header&text=Janva111&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=❄️%20Ledový%20Programátor%20|%20Web%20%26%20Game%20Developer%20💻&descAlignY=60&descSize=18" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=4FACFE&center=true&vCenter=true&width=500&lines=%E2%9C%A8+V%C3%ADtejte+u+Janva111+%E2%9C%A8;%E2%9D%84%EF%B8%8F+Ledov%C3%BD+Program%C3%A1tor;%F0%9F%92%BB+Web+Developer" alt="Typing SVG" />
 
-<!-- Dynamický typing text -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=V%C3%ADtej+na+m%C3%A9m+GitHub+profilu!+%E2%9C%A8;Tvo%C5%99%C3%ADm+modern%C3%AD+weby+a+hry+%F0%9F%9A%80;Autor+projektu+Chuligani+%F0%9F%8E%AE;Linux+%26+Docker+nad%C5%A1enec+%F0%9F%90%A7" alt="Typing SVG" />
-</a>
 
 
 <p align="center">
