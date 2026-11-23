@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Sparťanský vlnový banner (Ostrá trikolóra: Modrá - Žlutá - Rudá) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:004B87,33:004B87,34:FFD100,66:FFD100,67:A6192E,100:A6192E&height=210&section=header&text=Janva111&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=%F0%9F%94%B5%F0%9F%9F%A1%F0%9F%94%B4%20Web%20%26%20Game%20Developer%20%7C%20Ledov%C3%BD%20Program%C3%A1tor&descAlignY=62&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:004B87,33:004B87,34:FFD100,66:FFD100,67:A6192E,100:A6192E&height=210&section=header&text=Janva111&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=%F0%9F%94%B5%F0%9F%9F%A1%F0%9F%94%B4%20Web%20%26%20Game%20Developer&descAlignY=62&descSize=18" width="100%" />
 
 <!-- Animovaný text (Sparťanská žlutá) -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=FFD100&center=true&vCenter=true&width=600&lines=%E2%9C%A8+V%C3%ADtejte+na+profilu+Janva111+%E2%9C%A8;%E2%9D%84%EF%B8%8F+Ledov%C3%BD+Program%C3%A1tor+%7C+ACS+Heart;%F0%9F%92%BB+Web+%26+Game+Developer;%F0%9F%9A%80+Tv%C5%AFrce+projektu+Chuligani" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=FFD100&center=true&vCenter=true&width=600&lines=%E2%9C%A8+V%C3%ADtejte+na+profilu+Janva111+%E2%9C%A8;%F0%9F%94%B5%F0%9F%9F%A1%F0%9F%94%B4+ACS+Heart;%F0%9F%92%BB+Web+%26+Game+Developer;%F0%9F%9A%80+Tv%C5%AFrce+projektu+Chuligani" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -111,7 +111,7 @@
 
 <br/>
 
-<!-- Spodní vlnový banner (Ostrá trikolóra: Modrá - Žlutá - Rudá) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:004B87,33:004B87,34:FFD100,66:FFD100,67:A6192E,100:A6192E&height=100&section=footer" width="100%" />
+<!-- Spodní vlnový banner (Otočené parametry, aby se vykreslil jako Modrá - Žlutá - Rudá) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A6192E,33:A6192E,34:FFD100,66:FFD100,67:004B87,100:004B87&height=100&section=footer" width="100%" />
 
 </div>
